@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{7F08E2A2-A5E2-4D39-8371-F6E629C50221}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vb_course/wwwroot/css/site.css">
+    <Files>
+      <File FileName="vb_course/Startup.cs" Line="16" Column="30" />
+      <File FileName="vb_course/Program.cs" />
+      <File FileName="vb_course/wwwroot/js/site.js" />
+      <File FileName="vb_course/wwwroot/css/site.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vb_course" expanded="True">
+            <Node name="vb_course" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="site.css" selected="True" />
+                </Node>
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.vb__course PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="default" Name="default">
+      <Items>
+        <StartupItem ItemId="{7F08E2A2-A5E2-4D39-8371-F6E629C50221}" ItemName="vb_course" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
